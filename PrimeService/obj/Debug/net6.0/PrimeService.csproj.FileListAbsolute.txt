@@ -1,0 +1,12 @@
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/bin/Debug/net6.0/PrimeService.deps.json
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/bin/Debug/net6.0/PrimeService.dll
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/bin/Debug/net6.0/PrimeService.pdb
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/PrimeService.csproj.AssemblyReference.cache
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/PrimeService.AssemblyInfoInputs.cache
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/PrimeService.AssemblyInfo.cs
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/PrimeService.dll
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/refint/PrimeService.dll
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/PrimeService.pdb
+/Users/gardsam/VisualStudioCode_practice/2023_03_06.netCore/NUnit/PrimeService/obj/Debug/net6.0/ref/PrimeService.dll
